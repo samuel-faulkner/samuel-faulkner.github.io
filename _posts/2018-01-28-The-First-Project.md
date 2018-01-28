@@ -1,5 +1,5 @@
 ## What did I do this past week?
-This past week was a busy week of homework and projects. I've been busy working on project 1 in Software Engineering. I haven't gotten as far as I'd like with only a handful more days left before I have to turn it in, but with most of my other assignments out of the way I should be able to focus on this Software Engineering right now.
+This past week was a busy week of homework and projects. I've been busy working on project 1 in Software Engineering. I haven't gotten as far as I'd like with only a handful more days left before I have to turn it in, but with most of my other assignments out of the way, I should be able to focus on this Software Engineering right now.
 
 ## What's in my way?
 I caught the flu this weekend, which hasn't been too much of a hindrance except for yesterday. I was bedridden nearly the entire day and wasn't able to accomplish everything I wanted to. But thankfully I did catch the virus early and am already on medication, which will allow me to return to school Monday without missing any class.
