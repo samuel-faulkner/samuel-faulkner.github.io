@@ -1,5 +1,5 @@
 ## What did I do this past week?
-This past week was a busy week of homework and projects. I've been busy working on project 1 in Software Engineering as well as a Caesar Cipher for Intro to Security. Plus, I've had homework in Number Theory that I've been typing up using [LaTeX](https://www.latex-project.org/) which is a curse and a blessing-- I have to look up characters and symbols but I can also abuse the copy-paste feature of typing my homework rather than writing it by hand.
+This past week was a busy week of homework and projects. I've been busy working on project 1 in Software Engineering. I haven't gotten as far as I'd like with only a handful more days left before I have to turn it in, but with most of my other assignments out of the way I should be able to focus on this Software Engineering right now.
 
 ## What's in my way?
 I caught the flu this weekend, which hasn't been too much of a hindrance except for yesterday. I was bedridden nearly the entire day and wasn't able to accomplish everything I wanted to. But thankfully I did catch the virus early and am already on medication, which will allow me to return to school Monday without missing any class.
