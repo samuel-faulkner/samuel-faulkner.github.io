@@ -1,0 +1,14 @@
+## What did I do this past week?
+This past week I was able to finish up the first project on the first day of February. I was also able to catch up on reading **Extreme Programming**. The first project was definitely frustrating as I'm uncomfortable having to learn a ton of new tools and workflows at the same time. But each new thing I've picked up I'm sure will be useful in my future. I also found my team for projects in this course this week. Nearly everyone I know in the department that is taking Software Engineering this semester is in the other section, so I was forced to utilize email, Piazza, and awkward small talk in order to find a team. 
+
+## What's in my way?
+The biggest obstacles in my way are my other classes. Despite only taking twelve hours this semester I'm constantly trying to find more time in my schedule. I'm taking two upper division math courses which have very high time commitments. I only expect this problem to compound as the projects for this course startup which will require significantly more time than the first project did.
+
+## What will I do next week?
+Next week I will attempt to catch up and get as far ahead as possible in all my other courses before the second project starts up. Now that we're working in teams I know I'll need to make myself as available as I can as to not let my teammates down, even if I haven't even met some of them yet as of the time I'm writing this. The reading assignment next week is a much shorter list of papers and/or chapters, so it's nice I won't have to spend as much time reading.
+
+## What's my experience with the class?
+My experience of the class so far has been alright. I really like Downing's lecture style, but the content of the course is somewhat boring in my opinion. This past week we most of the time discussing the subtleties of Python, which anyone whose used Python in any serious project should already know. I would be more interested if we went over some of the more advanced topics of Python that I'm not as familiar with like [generator functions](https://wiki.python.org/moin/Generators) or [decorators](https://www.python.org/dev/peps/pep-3129/). But then, I'm not sure if more advanced Python topics would be relevant for Software Engineering. 
+
+## What's my pick-of-the-week?
+I have just started to code in [Julia](https://julialang.org/) for M368K Numerical Methods for Applications. I think it's a pretty cool language to learn for anyone interested in math computing. I'd describe it as a cross between Python and Matlab, although it differs from both a lot. Mostly from Matlab as Julia is free.
