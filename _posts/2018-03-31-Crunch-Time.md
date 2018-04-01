@@ -1,0 +1,14 @@
+## What did I do this past week?
+This past week has been a lot of working on assignments. Specifically the IDB project. I wasn't here for Wednesday's class and Quang's presentation, but after looking at his slides and from what I've gathered from my team members is that Phase 3 is a big undertaking. So I've been putting in many hours towards working on [Gameframe.online](http://gameframe.online). We've been talking about SQL in the other lectures this week, which I'm enjoying. Other than that I've been very busy with my other classes.
+
+## What's in my way?
+There's not enough time to complete Phase 3. Our team is not completely efficient in React so it takes a lot of time and refactoring in order to get our components to work correctly, much less look decent to our end users whenever we're done. Phase 3 is a lot more work than it first appears: [this post](https://piazza.com/class/jcgrhy8wgynfk?cid=294) says we have to search through every attribute of every model, and [this post](https://piazza.com/class/jcgrhy8wgynfk?cid=292) details that we need filtering, sorting, and pagination for every grid page. In my opinion, these are very challenging to do well on the front end through the user interface. Not only do we have a lot of logic to code but it will be an even bigger challenge to implement this level of detail and keep user experience at an acceptable level. I'll be surprised if we're able to pull it off in time.
+
+## What will I do next week?
+I suspect many late hours spent on Phase 3. And my other classes aren't cooperative and still handing out homework hand over fist, thus I'll have to juggle the workload between them all. But my team and I are up to the challenge and I'm sure we'll be able to get a product we're proud of by the end of this week. I'm hoping for some rest after Thursday though.
+
+## What's my experience with the class?
+I'm still liking the class so far, but Phase 3 is certainly an anomaly of a challenge. In my opinion, the Phase 3 should be at least three weeks. Our site already has pagination implemented as it was necessary for performance in Phase 2, but I can only imagine the challenge for any group that hasn't implemented that yet. But the lectures and Dr. Downing continue to be interesting and I enjoy going to class.
+
+## What's my pick-of-the-week?
+I've been reading up on CI/CD tools recently and tried out [Concourse](https://concourse-ci.org/) on a private server. It wasn't too difficult to setup, and I like the interface better than [Travis](https://travis-ci.com/), although it does take more effort get started as Travis is hosted and available for free for any open source project. But concourse shines in its flexibility and ease of use with its declarative pipelines.
