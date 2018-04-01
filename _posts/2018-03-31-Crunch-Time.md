@@ -8,7 +8,7 @@ There's not enough time to complete Phase 3. Our team is not completely efficien
 I suspect many late hours spent on Phase 3. And my other classes aren't cooperative and still handing out homework hand over fist, thus I'll have to juggle the workload between them all. But my team and I are up to the challenge and I'm sure we'll be able to get a product we're proud of by the end of this week. I'm hoping for some rest after Thursday though.
 
 ## What's my experience with the class?
-I'm still liking the class so far, but Phase 3 is certainly an anomaly of a challenge. In my opinion, the Phase 3 should be at least three weeks. Our site already has pagination implemented as it was necessary for performance in Phase 2, but I can only imagine the challenge for any group that hasn't implemented that yet. But the lectures and Dr. Downing continue to be interesting and I enjoy going to class.
+I'm still liking the class so far, but Phase 3 is certainly an anomaly of a challenge. In my opinion, Phase 3 should be at least three weeks. Our site already has pagination implemented as it was necessary for performance in Phase 2, but I can only imagine the challenge for any group that hasn't implemented that yet. But the lectures and Dr. Downing continue to be interesting and I enjoy going to class.
 
 ## What's my pick-of-the-week?
 I've been reading up on CI/CD tools recently and tried out [Concourse](https://concourse-ci.org/) on a private server. It wasn't too difficult to setup, and I like the interface better than [Travis](https://travis-ci.com/), although it does take more effort get started as Travis is hosted and available for free for any open source project. But concourse shines in its flexibility and ease of use with its declarative pipelines.
